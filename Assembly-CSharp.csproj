@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C31FDBCA-A9CE-8067-D943-81A88A43DDE5}</ProjectGuid>
+    <ProjectGuid>{A166F8B8-B6FD-20D2-43D0-56929CBC66B7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -57,7 +57,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Code\GameFinishTrigger.cs" />
-    <Compile Include="Assets\Code\CameraController.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Scripts\PlayerMovePhysics.cs" />
     <Compile Include="Assets\Code\ChangeColor.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Scripts\CharacterMovement2D.cs" />
@@ -876,7 +875,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AimingRig.csproj">
-      <Project>{423B2DDE-C3D3-C128-17CC-2D813001B7CB}</Project>
+      <Project>{3CE1C36A-E106-B712-C6AB-FD1F6E07556C}</Project>
       <Name>AimingRig</Name>
     </ProjectReference>
   </ItemGroup>
