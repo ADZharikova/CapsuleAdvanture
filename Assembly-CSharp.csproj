@@ -59,9 +59,11 @@
     <Compile Include="Assets\Code\GameFinishTrigger.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Scripts\PlayerMovePhysics.cs" />
     <Compile Include="Assets\Code\ChangeColor.cs" />
+    <Compile Include="Assets\Code\Parallax\ParallaxBackground.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Scripts\CharacterMovement2D.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Scripts\InvokeEventFromInspector.cs" />
     <Compile Include="Assets\Code\TouchedStar.cs" />
+    <Compile Include="Assets\Code\Parallax\ParallaxCamera.cs" />
     <Compile Include="Assets\Code\Graund.cs" />
     <Compile Include="Assets\Code\EndPoint.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Scripts\SimpleElevator.cs" />
@@ -86,6 +88,7 @@
     <Compile Include="Assets\JumpAudio.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\CameraMagnets\CameraMagnetTargetController.cs" />
     <Compile Include="Assets\Code\NextScene.cs" />
+    <Compile Include="Assets\Code\Parallax\ParallaxLayer.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Trigger volumes\GenericTrigger.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Scripts\CharacterMovement.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Scripts\CharacterMovementNoCamera.cs" />
