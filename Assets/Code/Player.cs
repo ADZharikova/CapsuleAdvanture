@@ -39,23 +39,6 @@ public class Player : MonoBehaviour
         {
             Flip();
         }
-
-        #region Старый код
-        //if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
-        //{
-        //    transform.Translate(_speed * Time.deltaTime, 0, 0);
-        //}
-
-        //if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
-        //{
-        //    transform.Translate(_speed * Time.deltaTime * -1, 0, 0);
-        //}
-
-        //if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
-        //{
-        //    transform.Translate(0, 2, 0);
-        //}
-        #endregion
     }
 
     private void Update()
